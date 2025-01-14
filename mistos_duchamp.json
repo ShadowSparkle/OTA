@@ -1,18 +1,16 @@
-{
-  "response": [
-    {
-        "maintainername": "ShadowSparkle",
-        "brand": "POCO",
-        "codename": "duchamp"
-        "name": "Poco X6 Pro",
-        "filename": "MistOS-3.2-Stable-UNOFFICIAL-20250114-GAPPS-duchamp.zip",
-        "download": "https://pd.cybar.xyz/DC8tebtx",
-        "timestamp": 1736872311,
-        "md5": "44252fe67c39f0ec7b972a2d3408f9cc",
-        "size": 3228372073,
-        "version": "3.2-Rayleigh"
-        "version_code": "15"
-        "version_name": "15"
-    }
-  ]
-}
+[
+   {
+      "brand": "POCO",
+      "codename": "Duchamp",
+      "name": "POCO X6 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "ShadowSparkle",
+            "maintainer_url": "https://pd.cybar.xyz/DC8tebtx",
+            "version_code": "15",
+            "version_name": "15",
+            "xda_thread": ""
+         }
+      ]
+   },
+]
