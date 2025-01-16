@@ -1,4 +1,4 @@
-Start 3.2 16/01 
+Start 3.2 16/01 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 🎉 Announcing MistOS Version 3.2 - Rayleigh (Stable) 🎉
 
 We are excited to bring you the latest release of MistOS! After thorough testing, we are happy to announce the stable release of MistOS 3.2 - Rayleigh. This update includes important security patches, new features, and various performance improvements to enhance your device experience. Here's what’s new:
@@ -20,7 +20,7 @@ Thanks to RisingOS, CrDroid, Derpfest, LMODroid, Project Flare, and others for t
 
 As always, we appreciate your support and feedback. We hope you enjoy this update! 🚀
 
-## UPDATE 15/01
+## UPDATE 15/01 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 We are happy to announce the new hotfix version of MistOS 3.2.1 ( Nimbus )
 
 Disclaimer: This is the HotFix update on version 3.2, January Security Patch.
