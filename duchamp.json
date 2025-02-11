@@ -1,17 +1,17 @@
-
 {
-  "response": [
-    {
-        "maintainer": "ShadowSparkle",
-        "oem": "POCO",
-        "codename": "duchamp"
-        "device": "Poco X6 Pro",
-        "filename": "MistOS-3.2-Stable-UNOFFICIAL-20250114-GAPPS-duchamp.zip",
-        "download": "https://pd.cybar.xyz/DC8tebtx",
-        "timestamp": 1736872311,
-        "md5": "44252fe67c39f0ec7b972a2d3408f9cc",
-        "size": 3228372073,
-        "version": "3.2-Rayleigh"
-    }
-  ]
+        "response": [
+                {
+                        "maintainer": "",
+                        "oem": "",
+                        "device": "",
+                        "filename": "MistOS-3.3-Stable-UNOFFICIAL-20250211-GAPPS-duchamp.zip",
+                        "download": "",
+                        "timestamp": 1739232824,
+                        "md5": "557a55c37df833687d9eaa399b7f7b67",
+                        "sha256": "d4fa878a91239bf055093eb20512f589e4257e411a826d959e4a916fc4363a7e",
+                        "size": 3275845861,
+                        "version": "3.3-Anvil",
+                        "buildtype": "Stable",
+                }
+        ]
 }
